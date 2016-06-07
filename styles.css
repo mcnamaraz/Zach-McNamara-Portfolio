@@ -1,10 +1,14 @@
 body {
 font-family: Arial;
-background-color: lightgray;
+background-color: white;
 }
 
 li {
 font-family: Verdana;
+}
+
+p  {
+	font-style: italic;
 }
 
 .others {
